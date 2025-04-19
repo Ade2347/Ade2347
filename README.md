@@ -22,7 +22,7 @@ I test simple and complex systems where reliability, compliance, and real-world 
 - Others: Jira, Postman, GitHub, SQL, GraphQL
 
 🤝 Let’s Connect
-🔗 LinkedIn: https://www.linkedin.com/in/adeniyi-adeshina/
-💻 GitHub: https://github.com/Ade2347
+- 🔗 LinkedIn: https://www.linkedin.com/in/adeniyi-adeshina/
+- 💻 GitHub: https://github.com/Ade2347
 
 📣 Open to QA roles – remote, hybrid, or on-site
