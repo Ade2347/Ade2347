@@ -1,4 +1,5 @@
 👋 Hi, I’m Adeniyi – QA Engineer
+
 🔍 Manual & Automation Testing | Risk-Focused QA
 
 I test simple and complex systems where reliability, compliance, and real-world edge cases matter. My approach is guided by one question: What’s the cost if this bug escapes?
